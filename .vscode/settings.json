@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.insertFinalNewline": true
+}
